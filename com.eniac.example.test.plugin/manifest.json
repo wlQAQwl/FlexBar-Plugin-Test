@@ -2,7 +2,7 @@
     "name": "Example-Test",
     "uuid": "com.eniac.example.test",
     "version": "1.1.1",
-    "author": "ENIAC",
+    "author": "WL",
     "entry": "backend/plugin.cjs",
     "description": "Example plugin for FlexDesigner",
     "repo": "https://github.com/ENIAC-Tech/Plugin-Example",
